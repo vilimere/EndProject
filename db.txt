@@ -1,0 +1,6 @@
+1	Pakeisti vonios lempute	Vilius	geguzes 12	True
+2	Pakeisti vonios ciaupa	Vilius	geguzes 25	False
+3	Pakeisti laida virtuvej	Vilius	geguzes 12	True
+4	Pakeisti sukuosena	Vilius	geguzes 12	False
+5	Nupirkti sviesto pyragui	Vilius	geguzes 10	True
+
